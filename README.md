@@ -12,3 +12,5 @@ Third committ down here. Also I deleted just part of a line in line 8 to see wha
 The line 8 deleting of a single word did little, now I'll delete a single word from the top line since this is one that I haven't affected to date
 
 Changes made in textwrangler .. wonder if GitDesktop will pick this up
+
+How does the github app know which branch to allocate these changes to?
