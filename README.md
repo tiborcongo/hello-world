@@ -5,4 +5,6 @@ Change typed into row 4 to have a play with how branching works, this is done in
 
 For this test, deleted row two and added this row. Put this in by shortcut below to be a new branch with name branch2
 
-Soooo let's add another committ within the same branch to see what the merge options actually mean
+ let's add another committ within the same branch to see what the merge options actually mean
+
+Third committ down here. Also I deleted just part of a line in line 8 to see what that looks like
